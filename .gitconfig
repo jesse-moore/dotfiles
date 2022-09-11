@@ -1,0 +1,5 @@
+[user]
+	name = Jesse Moore
+	email = moore.jesse@gmail.com
+[safe]
+	directory = %(prefix)/C:/Users/Jesse/.config
